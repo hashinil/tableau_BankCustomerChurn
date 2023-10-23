@@ -74,5 +74,7 @@ Communicate your results to stakeholders.
 6.  Generated **Churn by Tenure** chart. *Their is clear no relationship with Tenure* (Tenure: length of time a customer remains a customer)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/96a7b19c-4605-4ccf-83a0-4768643ea5d9)
 
-7.  Change **Geography** column and generate Latitude and longitude
+7.  Change **Geography** column and generate Latitude and longitude. Generate **Churn by Country** chart.
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/c8233868-4070-41a7-92cf-f7a1f0946baa)
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/b8fa350c-1389-4791-8fb0-658379a25422)
+
