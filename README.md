@@ -54,6 +54,7 @@ Communicate your results to stakeholders.
 ### Steps
 
 1.  Load data sheet to **Tableau**.
+
 2.  Create **Calculated Fields**.
    
     - No of Customers: **COUNT([Customer Id])**
@@ -64,6 +65,14 @@ Communicate your results to stakeholders.
 3.  Check **Avg Num of Products** and **Avg Age**. then change number format(Decimal) 
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/6d384de8-8673-4ba6-81c1-3090e53edfbe)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/4a12bb86-a2dd-42be-82e4-aa9a7e69c6f1)
+
+4.  Created bins for **Age**, size =5
+
+5.  Generated **Churn by Age** chart.
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/e0e8a55a-552c-4edf-a4de-23df1506b94c)
+
+6.  Generated **Churn by Tenure** chart.
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/96a7b19c-4605-4ccf-83a0-4768643ea5d9)
 
 
 
