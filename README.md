@@ -68,15 +68,11 @@ Communicate your results to stakeholders.
 
 4.  Created bins for **Age**, size =5
 
-5.  Generated **Churn by Age** chart.
+5.  Generated **Churn by Age** chart. *There is high churn rates for custermers older then 50.*
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/e0e8a55a-552c-4edf-a4de-23df1506b94c)
 
-6.  Generated **Churn by Tenure** chart.
+6.  Generated **Churn by Tenure** chart. *Their is clear no relationship with Tenure* (Tenure: length of time a customer remains a customer)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/96a7b19c-4605-4ccf-83a0-4768643ea5d9)
 
-
-
-
-
-
+7.  Change **Geography** column and generate Latitude and longitude
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/c8233868-4070-41a7-92cf-f7a1f0946baa)
