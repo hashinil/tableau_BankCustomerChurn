@@ -78,3 +78,11 @@ Communicate your results to stakeholders.
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/c8233868-4070-41a7-92cf-f7a1f0946baa)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/b8fa350c-1389-4791-8fb0-658379a25422)
 
+8.  Change values to **Discrete** and Marks to **Square** (Change background color)
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/9634ca8c-9d3e-4aa2-a033-a4e5e119e6ca)
+
+9.  Create **Churn by Active Member and Complains** chart.
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/2e9c62d6-88fe-4ac0-924e-8be9bad9b72d)
+
+
+
