@@ -4,7 +4,8 @@
 
 ####
 
-![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/1e381abb-3eb5-4743-8dc6-fe9f11350f15)
+![image](https://github.com/hashinil/tableau_BankCustomerChurn/assets/33922245/c7d91b5a-9774-4d93-a038-a251b5997570)
+
 
 
 
@@ -80,7 +81,8 @@
     - Number of Churned Customers: **SUM([Exited])**
     - Churned rate: **[3 Number of Churned Customers]/[1 Number of Customers]**
 
-3.  Checked **Avg Num of Products** and **Avg Age**. Then changed number format(Decimal) 
+3.  Create WorkSheets for **No of Customers, No of Churned Customers, Churned Rate, Avg Age and No of Products**
+Checked **Avg Num of Products** and **Avg Age**. Then changed number format(Decimal). 
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/6d384de8-8673-4ba6-81c1-3090e53edfbe)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/4a12bb86-a2dd-42be-82e4-aa9a7e69c6f1)
 
