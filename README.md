@@ -1,7 +1,13 @@
-# tableau_Customer_churn
+# :runner::two_men_holding_hands::two_men_holding_hands: Customer Churn Dashboard:bank::moneybag: 
 
-
-Customer churn, often referred to as customer attrition or customer defection, is a business metric that calculates the number of customers who leave or stop using a company's product or service over a specific time period. It's a crucial metric for businesses in various industries as it directly impacts revenue and profitability. Customer churn can occur for various reasons, and understanding and managing it is essential for maintaining a healthy customer base and sustaining a business's growth.
+## What is customer churn?
+- Customer attrition/ customer defection
+- Is a business metric that calculates the number of customers who leave or stop using a company's product or service over a specific time period.
+  **Churn rate percentage = (Number of customers lost during that time period / Number of customers at the start of the time period) X 100**
+- It's a crucial metric for businesses in various industries as it directly impacts revenue and profitability.
+- Customer churn can occur for various reasons
+-
+- and understanding and managing it is essential for maintaining a healthy customer base and sustaining a business's growth.
 
 
 Customer churn analysis is a common and valuable use case for businesses to understand why customers leave and what can be done to retain them.
