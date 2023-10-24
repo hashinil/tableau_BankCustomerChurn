@@ -1,31 +1,31 @@
 # :runner::two_men_holding_hands::two_men_holding_hands: Customer Churn Dashboard:bank::moneybag: 
 
 ## What is customer churn?
-- Customer attrition/ customer defection
+- Known as customer attrition/ customer defection
 - Is a business metric that calculates the number of customers who leave or stop using a company's product or service over a specific time period.
+  
   **Churn rate percentage = (Number of customers lost during that time period / Number of customers at the start of the time period) X 100**
+
+## Why is churn rate important?
+- Churn rates are important because losing customers means losing revenue
 - It's a crucial metric for businesses in various industries as it directly impacts revenue and profitability.
-- Customer churn can occur for various reasons
--
-- and understanding and managing it is essential for maintaining a healthy customer base and sustaining a business's growth.
+- High churn rates can have a significant negative impact on a business's revenue and profitability.
+- Acquiring new customers is often more expensive than retaining existing ones, so reducing churn is cost-effective.
+
+## Reasons for Churn
+- Dissatisfaction with the product or service.
+- Competitive offerings or better alternatives.
+- Changes in the customer's circumstances.
+- Poor customer service or support.
+- Pricing issues.
+- Lack of engagement or utilization.
+
+## How to reduce churn rate
+- Understanding and managing churn rate is essential for maintaining a healthy customer base and sustaining a business's growth.
+- Customer churn analysis is a common and valuable use case for businesses to understand why customers leave and what can be done to retain them.
+- To reduce customer churn, businesses often implement retention strategies, such as improving product quality, offering loyalty programs, providing excellent customer service, and tailoring marketing efforts to re-engage customers.
 
 
-Customer churn analysis is a common and valuable use case for businesses to understand why customers leave and what can be done to retain them.
-
-
- Reasons for Churn: Customer churn can result from a variety of factors, including:
-
-          Dissatisfaction with the product or service.
-          Competitive offerings or better alternatives.
-          Changes in the customer's circumstances.
-          Poor customer service or support.
-          Pricing issues.
-          Lack of engagement or utilization.
-
-Impact on Business: High churn rates can have a significant negative impact on a business's revenue and profitability. Acquiring new customers is often more expensive than retaining existing ones, so reducing churn is cost-effective.
-
-
- Retention Strategies: To reduce customer churn, businesses often implement retention strategies, such as improving product quality, offering loyalty programs, providing excellent customer service, and tailoring marketing efforts to re-engage customers.
 
 
  Feedback and Customer Surveys: Collecting feedback from departing customers can be valuable for understanding why they're leaving and making improvements based on their input.
