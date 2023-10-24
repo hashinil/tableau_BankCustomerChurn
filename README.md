@@ -38,6 +38,7 @@
 
 ### Customer churn analysis
 ##### Step 1: Data Collection:
+- [Datasheet]() 
 - Customer demographics, transaction history, support interactions, and any other data that might be related to customer behavior.
 - Feedback and Customer Surveys: Collecting feedback from departing customers can be valuable for understanding why they're leaving and making improvements based on their input.
 
@@ -142,3 +143,7 @@
       - *Customers who is having less points have more churn rate.*
   
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/063ef978-21a9-4f73-b373-ba36064b28b3)
+
+16.  Create 3 dashboards with created sheets above.
+    
+18.  Created **Story** with dashboards.
