@@ -48,38 +48,69 @@
 - Communicate the insights you gain can help businesses make data-driven decisions to retain customers and improve their overall satisfaction
 
 ---------------------------------------------------
+
 ### Steps
 
-1.  Load data sheet to **Tableau**.
+1.  Loaded data sheet to **Tableau**.
 
-2.  Create **Calculated Fields**.
+2.  Created **Calculated Fields**.
    
     - No of Customers: **COUNT([Customer Id])**
     - No of Unique Customers: **COUNTD([Customer Id])**
     - Number of Churned Customers: **SUM([Exited])**
     - Churned rate: **[3 Number of Churned Customers]/[1 Number of Customers]**
 
-3.  Check **Avg Num of Products** and **Avg Age**. then change number format(Decimal) 
+3.  Checked **Avg Num of Products** and **Avg Age**. Then changed number format(Decimal) 
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/6d384de8-8673-4ba6-81c1-3090e53edfbe)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/4a12bb86-a2dd-42be-82e4-aa9a7e69c6f1)
 
 4.  Created bins for **Age**, size =5
 
-5.  Generated **Churn by Age** chart. *There is high churn rates for custermers older then 50.*
+5.  Created **Churn by Age** chart.
+
+    **Findings:**
+      - *There is high churn rates for custermers older then 50.*
+        
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/e0e8a55a-552c-4edf-a4de-23df1506b94c)
 
-6.  Generated **Churn by Tenure** chart. *Their is clear no relationship with Tenure* (Tenure: length of time a customer remains a customer)
+6.  Created **Churn by Tenure** chart.
+   
+    **Findings:**
+      - *Their is no clear relationship with Tenure.* (Tenure: length of time a customer remains a customer)
+        
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/96a7b19c-4605-4ccf-83a0-4768643ea5d9)
 
-7.  Change **Geography** column and generate Latitude and longitude. Generate **Churn by Country** chart.
+7.  Changed **Geography** column and generate Latitude and longitude. Created **Churn by Country** chart. *Higher churn rate in GERMANY.*
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/c8233868-4070-41a7-92cf-f7a1f0946baa)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/b8fa350c-1389-4791-8fb0-658379a25422)
 
-8.  Change values to **Discrete** and Marks to **Square** (Change background color)
+8.  Changed values to **Discrete** and Marks to **Square** (Change background color)
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/9634ca8c-9d3e-4aa2-a033-a4e5e119e6ca)
 
-9.  Create **Churn by Active Member and Complains** chart.
+9.  Created **Churn by Active Member and Complains** chart.
+   
+     **Findings:**
+      - *Customers who are active and not colmplain have less posibility of churn.*
+      - *Almost all the Customers who colmplain have left the bank.*
+
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/2e9c62d6-88fe-4ac0-924e-8be9bad9b72d)
 
+10.  Created **Churn by Card Type** chart.
 
+     **Findings:**
+      - *Customers who have 0-7 years Tenure with **Gold card type** are having less churn rate than  **Diamond card type**.*
+      
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/d1f3f1b7-654d-4aa7-a57e-902ee6007ff7)
 
+12.  Created **Churn by No of Products** chart.
+
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/ab86a27a-3ec5-4e53-a5c0-187d0f0d71e9)
+
+13.  Created **Churn by Satisfaction Score** chart.
+
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/d8a4c4eb-19a6-4875-a71c-27c6f3f16d49)
+
+14.  Created bins for **Point Earned**, size =50
+15.  Created **Churn by Point Earned** chart.
+
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/063ef978-21a9-4f73-b373-ba36064b28b3)
