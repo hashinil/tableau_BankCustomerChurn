@@ -25,38 +25,29 @@
 - Customer churn analysis is a common and valuable use case for businesses to understand why customers leave and what can be done to retain them.
 - To reduce customer churn, businesses often implement retention strategies, such as improving product quality, offering loyalty programs, providing excellent customer service, and tailoring marketing efforts to re-engage customers.
 
+---------------------------------------------------
 
+### Customer churn analysis
+##### Step 1: Data Collection:
+- Customer demographics, transaction history, support interactions, and any other data that might be related to customer behavior.
+- Feedback and Customer Surveys: Collecting feedback from departing customers can be valuable for understanding why they're leaving and making improvements based on their input.
 
-
- Feedback and Customer Surveys: Collecting feedback from departing customers can be valuable for understanding why they're leaving and making improvements based on their input.
-
- 
-
-Identify what factors contribute to churn, and can you predict which customers are likely to churn? 
-the insights you gain can help businesses make data-driven decisions to retain customers and improve their overall satisfaction
-
-Data Collection:
-customer demographics, transaction history, support interactions, and any other data that might be related to customer behavior.
-
-Data Preprocessing:
+##### Step 2: Data Preprocessing:
 - Clean and preprocess your data.
     - This involves dealing with missing values, outliers, and any other data anomalies.
 - Feature engineering:
     - Create new features or transform existing ones that could be useful for your analysis, like customer tenure, usage patterns, or customer segment.
 
-
-Exploratory Data Analysis (EDA):
-
+##### Step 3: Exploratory Data Analysis (EDA):
 - Visualize and analyze the data to gain insights into customer behavior.
 - Identify patterns and correlations that may be related to churn.
+- Identify what factors contribute to churn, and can you predict which customers are likely to churn? 
 
+##### Step 4: Communication:
+- Prepare a tableau dashboard to summarizing findings and recommendations
+- Communicate the insights you gain can help businesses make data-driven decisions to retain customers and improve their overall satisfaction
 
-Communication:
-
-Prepare a tableau dashboard to summarizing findings and recommendations
-Communicate your results to stakeholders.
-
-
+---------------------------------------------------
 ### Steps
 
 1.  Load data sheet to **Tableau**.
