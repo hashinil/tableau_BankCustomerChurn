@@ -1,5 +1,14 @@
 # :runner::two_men_holding_hands::two_men_holding_hands: Bank Customer Churn Dashboard:bank::moneybag: 
 
+[Final Dashboard](https://public.tableau.com/app/profile/hashini.liyanage/viz/BankCustomerChurn_16981592629460/Story1#1)
+
+####
+
+![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/1e381abb-3eb5-4743-8dc6-fe9f11350f15)
+
+
+
+
 ## What is customer churn?
 - Known as customer attrition/ customer defection
 - Is a business metric that calculates the number of customers who leave or stop using a company's product or service over a specific time period.
@@ -41,15 +50,25 @@
 ##### Step 3: Exploratory Data Analysis (EDA):
 - Visualize and analyze the data to gain insights into customer behavior.
 - Identify patterns and correlations that may be related to churn.
-- Identify what factors contribute to churn, and can you predict which customers are likely to churn? 
+- Identify what factors contribute to churn, and can you predict which customers are likely to churn?
+- **Findings:**
+    - *There is high churn rates for custermers older then 50.*
+    - *Their is no clear relationship with Tenure.* (Tenure: length of time a customer remains a customer)
+    - *Customers who are active and not colmplain have less posibility of churn.*
+    - *Almost all the Customers who colmplain have left the bank.*
+    - *Customers who have 0-7 years Tenure with **Gold card type** are having less churn rate than  **Diamond card type**.*
+    - *Customers who is having 3 or 4 products have more churn rate.*
+    - *There is no visible relationship with Satisfaction Score and churn rate* **But it is a common fact, may be this dta set is not enough to prove it.**
+    - *Customers who is having less points have more churn rate.*
 
 ##### Step 4: Communication:
 - Prepare a tableau dashboard to summarizing findings and recommendations
 - Communicate the insights you gain can help businesses make data-driven decisions to retain customers and improve their overall satisfaction
+- [Final Dashboard](https://public.tableau.com/app/profile/hashini.liyanage/viz/BankCustomerChurn_16981592629460/Story1#1)
 
 ---------------------------------------------------
 
-### Steps
+### Steps followed to create dashboard:
 
 1.  Loaded data sheet to **Tableau**.
 
