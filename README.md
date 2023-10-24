@@ -38,7 +38,7 @@
 
 ### Customer churn analysis
 ##### Step 1: Data Collection:
-- [Datasheet]() 
+- [Datasheet](https://github.com/hashinil/tableau_Customer_churn/blob/main/Customer-Churn-Records.csv) 
 - Customer demographics, transaction history, support interactions, and any other data that might be related to customer behavior.
 - Feedback and Customer Surveys: Collecting feedback from departing customers can be valuable for understanding why they're leaving and making improvements based on their input.
 
