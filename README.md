@@ -1,4 +1,4 @@
-# :runner::two_men_holding_hands::two_men_holding_hands: Customer Churn Dashboard:bank::moneybag: 
+# :runner::two_men_holding_hands::two_men_holding_hands: Bank Customer Churn Dashboard:bank::moneybag: 
 
 ## What is customer churn?
 - Known as customer attrition/ customer defection
@@ -104,13 +104,22 @@
 
 12.  Created **Churn by No of Products** chart.
 
+     **Findings:**
+      - *Customers who is having 3 or 4 products have more churn rate.*
+      
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/ab86a27a-3ec5-4e53-a5c0-187d0f0d71e9)
 
 13.  Created **Churn by Satisfaction Score** chart.
 
+     **Findings:**
+      - *There is no visible relationship with Satisfaction Score and churn rate* **But it is a common fact, may be this dta set is not enough to prove it.**
+  
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/d8a4c4eb-19a6-4875-a71c-27c6f3f16d49)
 
 14.  Created bins for **Point Earned**, size =50
 15.  Created **Churn by Point Earned** chart.
 
+     **Findings:**
+      - *Customers who is having less points have more churn rate.*
+  
 ![image](https://github.com/hashinil/tableau_Customer_churn/assets/33922245/063ef978-21a9-4f73-b373-ba36064b28b3)
